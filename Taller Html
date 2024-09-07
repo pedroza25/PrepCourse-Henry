@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+   <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Mi Primer Sitio Web</title>
+   </head>
+   <body>
+      <!-- Contenido de la página va aquí-->
+   </body>
+</html>
+
+<body>
+    <header>
+       <h1>Vincent van Gogh</h1>
+       <nav>
+          <ul>
+             <li><a href="#biografia">Biografía</a></li>
+             <li><a href="#obras">Obras Famosas</a></li>
+             <li><a href="#influencia">Influencia</a></li>
+          </ul>
+       </nav>
+    </header>
+    <main>
+       <section id="biografia">
+          <h2>Biografía</h2>
+          <p>Vincent van Gogh (1853-1890) fue un pintor postimpresionista neerlandés. A pesar de su corta vida y la falta de reconocimiento durante su tiempo, su obra se ha convertido en una de las más influyentes en la historia del arte.</p>
+          <p>Van Gogh nació en Zundert, Países Bajos. Su carrera artística comenzó en la década de 1880 y produjo más de 2,100 obras, incluyendo alrededor de 860 pinturas al óleo.</p>
+          <hr />
+       </section>
+       <section id="obras">
+          <h2>Obras Famosas</h2>
+          <ul>
+             <li><strong>La Noche Estrellada:</strong> Una de sus obras más reconocidas, pintada en 1889 mientras estaba en el sanatorio de Saint-Rémy-de-Provence.</li>
+             <li><strong>Los Girasoles:</strong> Una serie de pinturas de girasoles en jarrones, realizadas en 1888 y 1889.</li>
+             <li><strong>El Dormitorio en Arles:</strong> Pintado en 1888, muestra la simple habitación que Van Gogh alquilaba en Arles, Francia.</li>
+          </ul>
+          <hr />
+       </section>
+       <section id="influencia">
+          <h2>Influencia</h2>
+          <p>El trabajo de Van Gogh ha tenido una profunda influencia en el arte moderno. Su uso del color, la pincelada expresiva y la emoción que transmiten sus obras han sido estudiadas y admiradas por generaciones de artistas.</p>
+          <p>A pesar de sus problemas de salud mental, su pasión por el arte y su habilidad para capturar la esencia de la vida cotidiana siguen inspirando a artistas y espectadores en todo el mundo.</p>
+       </section>
+    </main>
+    <footer>
+       <p>© 2024 Vincent van Gogh Fan Page. Todos los derechos reservados.</p>
+    </footer>
+ </body>
+</html>
